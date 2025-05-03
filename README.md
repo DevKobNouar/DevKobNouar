@@ -1,4 +1,4 @@
-<img src="!https://github.com/user-attachments/assets/a8d61152-9300-4872-8802-012efa07699c" alt="" width="1000" height="100">
+<img src="DevKobNouar/backgroundImg.png" alt="" width="1000" height="100">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Greetings!+%F0%9F%98%8A;Welcome+to+my+profile!" alt="Typing SVG" />
