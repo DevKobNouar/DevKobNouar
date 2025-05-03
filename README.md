@@ -1,11 +1,11 @@
-<img src="DevKobNouar/backgroundImg.png" alt="" width="1000" height="100">
+<img src="https://raw.githubusercontent.com/DevKobNouar/DevKobNouar/main/backgroundImg.png" width="1200" height="250">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Greetings!+%F0%9F%98%8A;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 💻 **Full Stack Web Developer** | 🎨 **UI/UX Designer & Artist** |  🏢 Founder @Algeria Eduverse | 🚀 Freelancer  
-📍 From Algeria | ☪️ Proud Muslim | 🐱 Cat Lover | 🛠 +6 Months Experience | ✅ For Hire
+📍 From Algeria | ☪️ Proud Muslim | 🐱 Cat Lover | 🛠 +6 Months Exp Of Programming | ✅ For Hire
 
 ### 📜 Personal Info:
 - **Name:** Kob Nouar Ndjmaddine.
@@ -64,3 +64,5 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
   </div>
 </p>
+
+<img src="https://raw.githubusercontent.com/DevKobNouar/DevKobNouar/main/backgroundImg.png" width="1200" height="250">
